@@ -1,8 +1,8 @@
 ### Hello, my name is Ben👋!
 
 ## I am currently...
-- Working twords getting AWS Certification
-- Taking CS classes at Santa Monica Collage 
+- Working towards getting AWS Certification
+- Taking CS classes at SMC 
 - Studying new languages and tools everyday
 
 Tools and Languages I have a good understanding of:
