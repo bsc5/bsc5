@@ -3,9 +3,9 @@
 ## I am currently...
 - Working twords getting AWS Certification
 - Taking CS classes at Santa Monica Collage 
-- Learning more about Python, Javascript, HTML, CSS, React.js, MySQL, etc!
+- Studying new languages and tools everyday
 
-Tools and Languages:
+Tools and Languages I have a good understanding of:
 
 <img align="left" alt="Python" width="26px" src="https://www.pinclipart.com/picdir/big/269-2691398_python-logo-clipart-transparent-background-png-download.png" />
 <img align="left" alt="AWS" width="26px" src="https://its.lmu.edu/media/its/aws.png" />
@@ -18,7 +18,7 @@ Tools and Languages:
 <br />
 <br />
 
-Currently Learning :
+Tools and Languages I am Currently still mastering :
 <br />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
