@@ -1,6 +1,6 @@
 ### Hello, my name is Ben👋!
 
-##I am currently...
+## I am currently...
 - Working twords getting AWS Certification
 - Taking CS classes at Santa Monica Collage 
 - Learning more about Python, Javascript, HTML, CSS, React.js, etc!
