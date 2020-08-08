@@ -5,7 +5,7 @@
 - Taking CS classes at SMC 
 - Studying new languages and tools everyday
 
-Tools and Languages I have a good understanding of:
+Tools and Languages I know:
 
 <img align="left" alt="Python" width="26px" src="https://www.pinclipart.com/picdir/big/269-2691398_python-logo-clipart-transparent-background-png-download.png" />
 <img align="left" alt="AWS" width="26px" src="https://its.lmu.edu/media/its/aws.png" />
@@ -18,7 +18,7 @@ Tools and Languages I have a good understanding of:
 <br />
 <br />
 
-Tools and Languages I am Currently still mastering :
+Tools and Languages I am currently mastering :
 <br />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
