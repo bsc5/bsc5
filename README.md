@@ -1,4 +1,4 @@
-### Hello, my name is Ben👋!
+### Hello👋!
 
 ## I am currently...
 - Working towards getting AWS Certification
