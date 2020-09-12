@@ -2,7 +2,6 @@
 
 ## I am currently...
 - Working towards getting AWS Certification
-- Taking CS classes at SMC 
 - Studying new languages and tools everyday
 
 Tools and Languages I know:
